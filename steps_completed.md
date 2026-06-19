@@ -17,6 +17,8 @@ This file logs each step taken during the planning, implementation, and verifica
 | 11     | Verified end-to-end execution | Started local server via `.\mvnw.cmd spring-boot:run` to confirm the Tomcat server starts on port 8080 and database seeding works. | Completed |
 | 12     | Created IDE, Postman, and DB setup guide | Created `intellij_postman_db_setup.md` detailing project import, IntelliJ run settings, Postman configuration, and H2 database verification. | Completed |
 | 13     | Switched and committed to custom branch | Checked out `solution/alkajaiswal` and committed all files (implementation, tests, configurations, logs, and polished README.md). | Completed |
+| 14     | Pushed solution branch to GitHub fork | Updated remote origin to point to fork `alka7321/wallet-transfer-assignment` and pushed `solution/alkajaiswal`. | Completed |
+
 
 
 
