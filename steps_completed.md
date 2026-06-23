@@ -18,6 +18,10 @@ This file logs each step taken during the planning, implementation, and verifica
 | 12     | Created IDE, Postman, and DB setup guide | Created `intellij_postman_db_setup.md` detailing project import, IntelliJ run settings, Postman configuration, and H2 database verification. | Completed |
 | 13     | Switched and committed to custom branch | Checked out `solution/alkajaiswal` and committed all files (implementation, tests, configurations, logs, and polished README.md). | Completed |
 | 14     | Pushed solution branch to GitHub fork | Updated remote origin to point to fork `alka7321/wallet-transfer-assignment` and pushed `solution/alkajaiswal`. | Completed |
+| 15     | Configured PostgreSQL Local DB | Switched the database from H2 to PostgreSQL 17 on localhost:5432, adding JDBC driver dependencies to `pom.xml` and configuring user credentials. | Completed |
+| 16     | Scaffolded Angular Client | Installed Node.js & Angular CLI and generated a clean Angular Single Page Application `angular-frontend/` for wallet dashboard testing. | Completed |
+| 17     | Implemented Angular UI components | Built components in `app.ts`, `app.html`, and `app.css` to load balances, execute transfers, track idempotency, and log historical entries. | Completed |
+
 
 
 
